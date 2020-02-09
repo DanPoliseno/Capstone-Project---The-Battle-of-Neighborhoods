@@ -1,6 +1,6 @@
 # Capstone-Project---The-Battle-of-Neighborhoods
 
-**Real Estate in New York City**
+**Real Estate & Venues Data Analysis of Toronto and New York City**
 
 **Introduction/Business Problem**
 
